@@ -2,7 +2,7 @@
 This project builds a machine learning model to classify news articles as fake or real. It leverages natural language processing (NLP) techniques for text cleaning, feature extraction, and uses several classifiers to detect misinformation
 
 ## 🚀 Project Overview
-- Goal: Automatically classify news articles as fake or real
+- Goal: Automatically classify news articles as fake or real.
 
 Approach:
 1. Text preprocessing (stopword removal, lemmatization)
