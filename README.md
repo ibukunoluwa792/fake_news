@@ -1,5 +1,5 @@
 ## 📰 Fake News Prediction using Machine Learning
-This project builds a machine learning model to classify news articles as fake or real. It leverages natural language processing (NLP) techniques for text cleaning, feature extraction, and uses several classifiers to detect misinformation
+This project builds a machine learning model to classify news articles as fake or real. It leverages natural language processing (NLP) techniques for text cleaning, feature extraction, and uses several classifiers to detect misinformation;
 
 ## 🚀 Project Overview
 - Goal: Automatically classify news articles as fake or real.
