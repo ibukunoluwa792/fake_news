@@ -7,7 +7,7 @@ This project builds a machine learning model to classify news articl/es as fake 
 
 Approach:
 1. Text preprocessing (stopword removal, lemmatization)
-2. Feature engineering using TF-IDF
+2. Feature engineering using TF-ID
 3. Model training with classifiers like Logistic Regression, PassiveAggressiveClassifier, etc.
 - Dataset: News data labeled as fake or real (loaded from CSV).
 📁 Project 
