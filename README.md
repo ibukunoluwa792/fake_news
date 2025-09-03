@@ -3,7 +3,7 @@ This project builds a machine learning model to classify news articl/es as fake 
 
 ## 🚀 Projectm
 
-- Goal: Automatically classify news articles as fake or real.
+- Goal: Automatically classify news articles as fake or real
 
 Approach:
 1. Text preprocessing (stopword removal, lemmatization)
