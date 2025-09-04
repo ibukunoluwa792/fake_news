@@ -10,7 +10,7 @@ Approach:
 2. Feature engineering using TF-IDf
 3. Model training with classifiers like Logistic Regression, PassiveAggressiveClassifier, etc.
 - Dataset: News data labeled as fake or real (loaded from CSV).
-📁 Project 
+📁 Project
 ```
 📦 Fake-News-Prediction/
 ├── Fake News Prediction.ipynb   .
