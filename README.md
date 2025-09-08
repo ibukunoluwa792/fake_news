@@ -12,7 +12,7 @@ Approach:
 - Dataset: News data labeled as fake or real (loaded from CSV).
 📁 Projectn
 ```
-📦 Fake-News-Prediction/
+📦 Fake-News-Prediction
 ├── Fake News Prediction.ipynb   
 ├── README.md                    
 ├── requirements.txt           
