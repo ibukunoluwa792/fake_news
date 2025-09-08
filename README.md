@@ -13,7 +13,7 @@ Approach:
 📁 Projectn
 ```
 📦 Fake-News-Prediction/
-├── Fake News Prediction.ipynb   .
+├── Fake News Prediction.ipynb   
 ├── README.md                    
 ├── requirements.txt           
 └── data/
